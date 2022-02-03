@@ -1,0 +1,13 @@
+1. How to adjust font responsively?
+2. Default mode to center a div : (2 quick ways I know of) 
+    a. position absolute, translate(-50, -50) trick
+    b. margin auto 
+    Anything I should be careful about while using these?
+
+3. Don't think responsively, I just start making the design from the image (desktop view)
+ and then make changes as I feel fit. Have trouble when need to change to responsive layout.
+
+4. Need to work on class naming convention
+
+5. How to fill up a section as one height of a monitor using css? I used (height: 99vh, width: 99vw), 
+probably not advised.
